@@ -42,8 +42,8 @@ footer {
 }
 
 .line-1, .line-2, .line-3 {
-    text-align: center;
-    margin: 2px 0;  /* Adjust this margin to change the spacing */
+    margin: 1.5px 0;  /* Adjust this margin to change the spacing */
+    text-align: center; /* Ensure the text remains centered */
 }
 
 .line-2 {
