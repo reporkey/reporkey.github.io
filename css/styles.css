@@ -40,3 +40,16 @@ footer {
     font-size: 0.9em;
     color: #666;
 }
+
+.line-1, .line-2, .line-3 {
+    text-align: center;
+    margin: 2px 0;  /* Adjust this margin to change the spacing */
+}
+
+.line-2 {
+    margin-top: 5px;  /* Adjust this margin if you want specific spacing between these lines */
+}
+
+.line-3 {
+    margin-top: 5px;  /* Adjust this margin if you want specific spacing between these lines */
+}
