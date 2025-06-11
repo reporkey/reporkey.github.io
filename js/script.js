@@ -2,7 +2,7 @@
 
 document.addEventListener("DOMContentLoaded", function() {
     // Example: Smooth scrolling for navigation links
-    const links = document.querySelectorAll("nav a");
+    const links = document.querySelectorAll("nav a:not([download])");
     
     for (const link of links) {
         link.addEventListener("click", function(event) {
